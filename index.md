@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "「幽」の貯蔵室"
+title: "「幽」のStorage"
 ---
 
 <!DOCTYPE html>
