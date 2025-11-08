@@ -1,3 +1,7 @@
+---
+layout: default
+title: "「幽」のStorage"
+---
 
 <!DOCTYPE html>
 <html lang="zh-CN">
